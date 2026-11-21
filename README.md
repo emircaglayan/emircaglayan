@@ -1,16 +1,14 @@
-## Hi there 👋
+# Emir Caglayan
 
-<!--
-**mrcglyn/mrcglyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building **Awardy** to help marketing teams find award-winning work, learn how campaigns were made, and manage their award entries.
 
-Here are some ideas to get you started:
+## Awardy skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use Awardy from ChatGPT, Codex, Claude Code, or another assistant that supports MCP.
+
+| Skill | What it does |
+| --- | --- |
+| [Awardy campaign research](https://github.com/mrcglyn/awardy-skills/tree/main/skills/awardy-campaign-research) | Find winning campaigns by industry, competitor, channel, or topic. Explore the cases you want to learn from. |
+| [Connect Awardy](https://github.com/mrcglyn/awardy-skills/tree/main/skills/connect-awardy-mcp) | Connect your Awardy account and check that your assistant can find winners. |
+
+[Browse the skills](https://github.com/mrcglyn/awardy-skills) · [Visit Awardy](https://awardy.ai/)
