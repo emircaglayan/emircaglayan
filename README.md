@@ -12,3 +12,5 @@ Use Awardy from ChatGPT, Codex, Claude Code, or another assistant that supports 
 | [Connect Awardy](https://github.com/mrcglyn/awardy-skills/tree/main/skills/connect-awardy-mcp) | Connect your Awardy account and check that your assistant can find winners. |
 
 [Browse the skills](https://github.com/mrcglyn/awardy-skills) · [Visit Awardy](https://awardy.ai/)
+
+[Personal website](https://emircaglayan.com/)
